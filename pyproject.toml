@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "python-filen"
+version = "0.1.0"
+description = ""
+authors = ["itsklimov <itsklimov@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+httpx = "^0.25.2"
+jupyter = "^1.0.0"
+cryptography = "^41.0.7"
+requests = "^2.31.0"
+nest-asyncio = "^1.5.8"
+pydantic = "^2.5.2"
+pydantic-settings = "^2.1.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
