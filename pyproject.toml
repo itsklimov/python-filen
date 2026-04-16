@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "python-filen"
 version = "0.1.0"
-description = ""
+description = "Experimental Python client for Filen authentication and login flows"
 authors = ["itsklimov <itsklimov@gmail.com>"]
 readme = "README.md"
 
